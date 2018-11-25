@@ -1,6 +1,6 @@
-token=NDg3NjQ1MDUyMDA1Mzg0MjAy.DnnCOg.nchRixdCmEQ0J-jMQzd-pp0Z8k8
-owner=450711003324350485 
-prefix=2
-game=Skillful Community.
+token=NTE2MjI2Mzk5MTc0OTE4MTU2.Dtwk0w.U2Viwk8yIH_FTq7_K98BSmGZ674
+owner=479095463509884929 
+prefix=3
+game=Type 3play
 stayinchannel=true
-songinstatus=true
+songinstatus=fasle
